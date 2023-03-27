@@ -1,0 +1,306 @@
+h1 {
+    color: #ffffff;
+    font-family: Söhne
+    ui-sans-serif
+    system-ui
+    -apple-system
+    "Segoe UI"
+    Roboto
+    Ubuntu
+    Cantarell
+    "Noto Sans"
+    sans-serif
+    "Helvetica Neue"
+    Arial
+    "Apple Color Emoji"
+    "Segoe UI Emoji"
+    "Segoe UI Symbol"
+    "Noto Color Emoji";
+    position: absolute;
+    margin-left: 930px;
+    margin-top: 200px;
+}
+
+.new {
+    color: black;
+    border-radius: 5px;
+    background-color: #FAE69E;
+    padding: 1px;
+}
+
+.home {
+    width: 200px;
+    position: absolute
+}
+
+.askchat {
+    position: absolute;
+    bottom: 50px;
+    color: white;
+    width: 800px;
+    height: 40px;
+    left: 550px;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: -1px 6px 56px -22px rgba(0,0,0,0.75);
+    background-color: #353740;
+}
+
+.march {
+    margin-top: 50px;
+    font-size: 12px;
+    color: #809499;
+}
+
+.sendlogo {
+    position: relative;
+    right: 0;
+    margin-top: 10px;
+    margin-left: 770px;
+    justify-content: right;;
+    display: flex;
+}
+
+p {
+    color: white;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 40px;
+    display: flex;
+    text-align: center;
+    justify-content: left;
+    flex-direction: column;
+    align-items: last baseline;
+    padding: 22px;
+    margin: 10px;
+    border-top: 1px solid #555559;
+}
+
+.sidebar {
+    border: 1px solid black;
+    position: absolute;
+    width: 250px;
+    height: 1000px;
+    background-color: #202123;
+}
+
+.newchat {
+    border: 1px solid #555559;
+    border-radius: 10px;
+    margin: 20px;
+    font-size: 14px;
+    color: white;
+    text-align: left;
+    padding: 12px;
+    line-height: 20px;
+    align-items: last baseline;
+    justify-content: left;
+    display: flex;
+
+}
+
+
+.examples {
+    color: #ffffff;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    flex-direction: column;
+    font-family: Söhne
+    ui-sans-serif
+    system-ui
+    -apple-system
+    "Segoe UI"
+    Roboto
+    Ubuntu
+    Cantarell
+    "Noto Sans"
+    sans-serif
+    "Helvetica Neue"
+    Arial
+    "Apple Color Emoji"
+    "Segoe UI Emoji"
+    "Segoe UI Symbol"
+    "Noto Color Emoji";
+    margin-left: 500px;
+    margin-top: 300px;
+}
+
+.capabilities {
+    flex-direction: column;
+    color: #ffffff;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    font-family: Söhne
+    ui-sans-serif
+    system-ui
+    -apple-system
+    "Segoe UI"
+    Roboto
+    Ubuntu
+    Cantarell
+    "Noto Sans"
+    sans-serif
+    "Helvetica Neue"
+    Arial
+    "Apple Color Emoji"
+    "Segoe UI Emoji"
+    "Segoe UI Symbol"
+    "Noto Color Emoji";
+    margin-left: 850px;
+    margin-top: 300px;
+}
+
+.limitations {
+    flex-direction: column;
+    color: #ffffff;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    font-family: Söhne
+    ui-sans-serif
+    system-ui
+    -apple-system
+    "Segoe UI"
+    Roboto
+    Ubuntu
+    Cantarell
+    "Noto Sans"
+    sans-serif
+    "Helvetica Neue"
+    Arial
+    "Apple Color Emoji"
+    "Segoe UI Emoji"
+    "Segoe UI Symbol"
+    "Noto Color Emoji";
+    margin-left: 1200px;
+    margin-top: 300px;
+}
+
+
+.explain {
+    position: relative;
+    color: white;
+    background-color: #3E3F4B;
+    width: 300px;
+    border-radius: 10px;
+    height: 60px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+.creative {
+    position: relative;
+    color: white;
+    background-color: #3E3F4B;
+    width: 300px;
+    border-radius: 10px;
+    height: 60px;
+    text-align: center;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.http{
+    position: relative;
+    color: white;
+    background-color: #3E3F4B;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.remember {
+    position: relative;
+    color: white;
+    background-color: #3E3F4B;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.allow {
+    position: relative;
+    color: white;
+    background-color: #3E3F4B;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.trained {
+    position: relative;
+    color: white;
+    background-color: #3E3F4B;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.generate {
+    position: relative;
+    color: white;
+    background-color: #3E3F4B;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.may {
+    position: relative;
+    color: white;
+    background-color: #3E3F4B;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.limited {
+    position: relative;
+    color: white;
+    background-color: #3E3F4B;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

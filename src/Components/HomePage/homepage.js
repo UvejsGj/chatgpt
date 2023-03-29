@@ -29,7 +29,7 @@ function ChatGPT() {
             </div>
         </div>
       <div className="askchat"> 
-        <a> <BsSendFill className="sendlogo" color="grey" size={20}/></a>
+        <input className="input" ></input> <BsSendFill className="sendlogo" color="grey" size={20}/>
         <p className="march" > ChatGPT Mar 14 Version. Free Research Preview. Our goal is to make AI systems more natural and safe to interact with. Your feedback will help us improve. </p>
       </div>
       <div className="home">
@@ -47,7 +47,7 @@ function ChatGPT() {
                 <p className="trained">Trained to decline inappropriate requests</p>
            </div>
             <div className="limitations">
-            <p>  <AiOutlineWarning color="white" size={30}/> <br></br>  Limitations </p>
+            <p>  <AiOutlineWarning color="white" size={30} /> <br></br>  Limitations </p>
                 <p className="generate">May occasionally generate incorrect information</p>
                 <p className="may">May occasionally produce harmful instructions or biased content</p>
                 <p className="limited">Limited knowledge of world and events after 2021</p>
